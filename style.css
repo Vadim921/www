@@ -1,0 +1,29 @@
+body{
+	/*background: #051e46;*/
+	margin: 0;
+}
+.head{
+	height: 120px;
+	background: url(bg.png)top center no-repeat;
+}
+.content{
+	width: 500px;
+	margin: 0 auto;
+	min-height: 400px;
+}
+.cs{
+	height: 370px;
+	text-align: center;
+}
+.box{
+	height: 100px;
+}
+.a{
+	text-decoration: none;
+	padding:0px 8px;
+}
+p{
+	font-size: 13px;
+	font-family: Lucida Sans Unicode;
+	color: #00050c;
+}
